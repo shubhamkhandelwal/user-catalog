@@ -1,5 +1,7 @@
 # UserApiCatalog
 
+This project is an implementation of Random User Generator  using Angular. Ii also uses leaflet to display map markers.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
